@@ -24,7 +24,7 @@ def compare_faces(api_key, api_secret, image_file1, image_file2):
     
     return response.json()
 
-st.title("Face Comparision tool by SIFS")
+st.title("Face Comparision tool by Vaidik")
 
 API_KEY = "7thFhdOYTWoVZ2vM669zgZGnpQMkjvqo"
 API_SECRET = "uUQr90A3iPF912qSIFO9uvbe-yiWq0iz"
